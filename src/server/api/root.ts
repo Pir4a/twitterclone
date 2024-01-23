@@ -1,4 +1,3 @@
-
 import { createTRPCRouter } from "~/server/api/trpc";
 import { tweetRouter } from "~/server/api/routers/tweet";
 import { profileRouter } from "./routers/profile";
